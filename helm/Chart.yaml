@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-document-management
+description: "BIAN Service Domain: Document Management (Maintain pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - maintain
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Corporate Services"
+  bian/asset-type: "Document"
+  bian/control-record: "Document Maintenance Agreement"
